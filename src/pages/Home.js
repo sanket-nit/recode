@@ -70,6 +70,7 @@ const Home = () => {
               new room
             </a>
           </span>
+          
         </div>
       </div>
     </div>
